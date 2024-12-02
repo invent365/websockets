@@ -1,0 +1,14 @@
+﻿  mysql_handler.hpp
+  Bubbles.cpp
+  connect_actions.hpp
+  serverdisonnect.hpp
+  serverpublish.hpp
+  Will_message.hpp
+  newt.cpp
+  progam_policy.hpp
+  sslcrypt.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  connect_project2.vcxproj -> C:\Users\Mayowa\source\repos\connect_project2 - Copy\x64\Release\connect_project2.exe
